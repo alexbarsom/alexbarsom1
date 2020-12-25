@@ -1,5 +1,17 @@
 ---
 ---
-
+$primary:   #c7e3e8;
 // Import Main CSS file from theme
 @import "main";
+
+.hero.is-primary .title {
+    color: dimgrey;
+}
+.hero.is-primary .subtitle {
+    color: dimgrey;
+}
+
+.hero.is-light{
+        background-color: azure;
+        color: brown;
+    }

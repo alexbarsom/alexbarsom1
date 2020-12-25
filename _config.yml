@@ -1,13 +1,13 @@
 # Site Settings
-title: Bulma Clean Theme
-tagline: Bulma Clean Theme
-email: your-email@domain.com
+title: Alex Barsom
+tagline: Composer
+email: alexbarsom123@gmail.com
 description: >
-  The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
-baseurl: "/bulma-clean-theme"
-url: "https://www.csrhymes.com"
+  Official site of composer Alex Barsom
+baseurl: "/alexbarsom1"
+url: "https://alexbarsom.github.io"
 permalink: pretty
-#favicon: /path/to/favicon.png
+#favicon: /path/to/Users/jacob-alex/Downloads/favicon1.PNG
 gh_sponsor: chrisrhymes
 #hide_share_buttons: true
 #theme_color: '#eeeeee'
@@ -72,7 +72,7 @@ highlighter: rouge
 footer_menu: example_footer_menu
 
 collections:
-  products: 
+  Works: 
     output: true
     layout: product
     image: https://via.placeholder.com/800x600

@@ -1,0 +1,17 @@
+style: is-light
+height: is-medium
+items:
+  - title: Email
+    icon: fa-inbox
+    call_to_action_name: alexbarsom123@gmail.com
+    call_to_action_link: /page-1/
+    
+  - title: Instagram
+    icon: fa-camera
+    call_to_action_name: alexbarsom
+    call_to_action_link: /page-2/
+  - title: Facebook
+    icon: fa-facebook
+    icon_brand: true
+    call_to_action_name: alexbarsom
+    call_to_action_link: https://www.csrhymes.com/bulma-clean-theme/page-3/

@@ -1,3 +1,29 @@
+- name: About
+  link: /about/
+  
+- name: Works
+  link: /works/
+  dropdown:
+    - name: All Works
+      link: /works/#all_works/
+    - name: Chamber
+      link: /works/#chamber/
+    - name: Solo Instrument
+      link: /works/#solo_instrument/
+    - name: Large Ensemble
+      link: /works/#large_ensemble/
+    - name: Choral
+    - link: /works/#choral/
+    
+- name: Listen
+  link: /listen/
+  
+- name: Performances
+  link: /performances/
+
+- name: Contact
+  link: /contact/
+  
 - name: Pages
   link: /#
   dropdown:
@@ -27,9 +53,3 @@
       link: /sponsors/
     - name: Image Gallery
       link: /gallery/
-- name: Products
-  link: /products/
-- name: Showcase
-  link: /showcase/
-- name: Blog
-  link: /blog/
