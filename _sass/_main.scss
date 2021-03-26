@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat');
 
 $family-sans-serif: 'Montserrat', sans-serif;
-$primary: #188eac !default;
+$primary: #f2f2f2 !default;
 
 $tabs-link-active-color: $primary;
 $tabs-link-active-border-bottom-color: $primary;
@@ -17,6 +17,20 @@ $hero-darken: $dark !default;
 @import "showcase";
 @import "../node_modules/bulma-block-list/src/block-list.scss";
 
-.gh-sponsor {
-  color: red;
+a:link {
+  color: darkslategray;
+  font-size: 18px;
+  text-decoration: none;
 }
+a:visited {
+  color: dimgrey;
+  text-decoration: none;
+}
+a:hover {
+  color: darkcyan;
+  text-decoration: underline;
+}
+a:active {
+    color: darkcyan;
+  text-decoration: underline;
+  }

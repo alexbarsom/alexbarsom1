@@ -1,8 +1,22 @@
-.gh-sponsor {
-  color: red;
+.hero.is-primary .title {
+    color: #44515a;
+}
+.hero.is-primary .subtitle {
+    color: #44515a;
 }
 
-.button.is-primary {
-    background-color: #fd4747c7;
-    color: black; 
+.hero.is-light{
+        background-color: #b3e8ff;
+    } 
+
+/*for image wrap on about page*/
+
+.wrap-left {
+ float: left;
+ padding: 0 20px 0 0;
+ padding-right: 20px;
+}
+
+html {
+    background-color: gray;
 }

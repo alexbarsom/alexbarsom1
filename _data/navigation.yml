@@ -5,15 +5,15 @@
   link: /works/
   dropdown:
     - name: All Works
-      link: /works/#all_works/
+      link: /works/
     - name: Chamber
-      link: /works/#chamber/
-    - name: Solo Instrument
-      link: /works/#solo_instrument/
-    - name: Large Ensemble
-      link: /works/#large_ensemble/
+      link: /chamber/
     - name: Choral
-    - link: /works/#choral/
+      link: /choral/
+    - name: Large Ensemble
+      link: /large-ensemble/
+    - name: Solo Instrument
+      link: /solo-instrument/
     
 - name: Listen
   link: /listen/

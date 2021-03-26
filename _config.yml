@@ -7,8 +7,7 @@ description: >
 baseurl: "/alexbarsom1"
 url: "https://alexbarsom.github.io"
 permalink: pretty
-#favicon: /path/to/Users/jacob-alex/Downloads/favicon1.PNG
-gh_sponsor: chrisrhymes
+favicon: /composerwebsitefavicon.png
 #hide_share_buttons: true
 #theme_color: '#eeeeee'
 #fixed_navbar: top
@@ -21,7 +20,6 @@ disqus:
   # Leave shortname blank to disable comments site-wide.
   # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
   # shortname: my_disqus_shortname
-  shortname: csrhymes
 
 
 plugins:
