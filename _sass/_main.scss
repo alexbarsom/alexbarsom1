@@ -18,12 +18,12 @@ $hero-darken: $dark !default;
 @import "../node_modules/bulma-block-list/src/block-list.scss";
 
 a:link {
-  color: darkslategray;
+  color: #1D3851;
   font-size: 18px;
   text-decoration: none;
 }
 a:visited {
-  color: dimgrey;
+  color: maroon;
   text-decoration: none;
 }
 a:hover {
@@ -34,3 +34,7 @@ a:active {
     color: darkcyan;
   text-decoration: underline;
   }
+
+section {
+  background-image: url("/alexbarsom1/wavegrid.png");
+}

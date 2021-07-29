@@ -1,0 +1,8 @@
+- label: Works
+  items:
+    - name: Chamber
+      link: /chamber/
+    - name: Large Ensemble
+      link: /large-ensemble/
+    - name: Solo Instrument
+      link: /solo-instrument/

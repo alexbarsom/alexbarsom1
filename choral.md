@@ -1,8 +1,8 @@
 ---
 title: Choral Music
 layout: page
-show_sidebar: true
-menubar: work_menu
+show_sidebar: false
+menubar: choralpage_menu
 ---
 
 # Choral

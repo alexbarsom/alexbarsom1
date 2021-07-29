@@ -1,8 +1,8 @@
 ---
 title: Chamber Music
 layout: page
-show_sidebar: true
-menubar: work_menu
+show_sidebar: false
+menubar: chamberpage_menu
 ---
 
 # Chamber

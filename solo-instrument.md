@@ -1,8 +1,8 @@
 ---
-title: Works
+title: Solo Instrument
 layout: page
-show_sidebar: true
-menubar: work_menu
+show_sidebar: false
+menubar: solo_menu
 ---
 
 # Solo Instrument

@@ -1,0 +1,8 @@
+- label: Works
+  items:
+    - name: Choral
+      link: /choral/
+    - name: Large Ensemble
+      link: /large-ensemble/
+    - name: Solo Instrument
+      link: /solo-instrument/

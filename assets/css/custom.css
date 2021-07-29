@@ -1,13 +1,19 @@
+
 .hero.is-primary .title {
-    color: #44515a;
+    color: white;
 }
 .hero.is-primary .subtitle {
-    color: #44515a;
+    color: white;
 }
 
 .hero.is-light{
         background-color: #b3e8ff;
     } 
+
+.hero.is-primary {
+    background-color: darkslategrey;
+    color: rgba(0,0,0,0.7);
+}
 
 /*for image wrap on about page*/
 
@@ -15,8 +21,4 @@
  float: left;
  padding: 0 20px 0 0;
  padding-right: 20px;
-}
-
-html {
-    background-color: gray;
 }

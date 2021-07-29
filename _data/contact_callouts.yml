@@ -1,17 +1,16 @@
-style: is-light
+style: is-dark
 height: is-medium
 items:
   - title: Email
     icon: fa-inbox
     call_to_action_name: alexbarsom123@gmail.com
-    call_to_action_link: /page-1/
-    
+    call_to_action_link: "mailto: alexbarsom123@gmail.com"
   - title: Instagram
     icon: fa-camera
     call_to_action_name: alexbarsom
-    call_to_action_link: /page-2/
+    call_to_action_link: https://www.instagram.com/alexbarsom/
   - title: Facebook
     icon: fa-facebook
     icon_brand: true
     call_to_action_name: alexbarsom
-    call_to_action_link: https://www.csrhymes.com/bulma-clean-theme/page-3/
+    call_to_action_link: https://www.facebook.com/alex.barsom.1/

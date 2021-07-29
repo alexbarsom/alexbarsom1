@@ -1,8 +1,8 @@
 ---
 title: Large Ensemble Music
 layout: page
-show_sidebar: true
-menubar: work_menu
+show_sidebar: false
+menubar: large_ensemble_menu
 ---
 
 # Large Ensemble

@@ -1,8 +1,12 @@
 ---
 layout: page
-title: Example Landing Page
-subtitle: This is an example landing page with callouts
+title: Contact Page
 hide_hero: true
 show_sidebar: false
 callouts: contact_callouts
 ---
+<style> 
+section {
+  background-image: url("/alexbarsom1/otis_redding.png");
+}
+</style>
