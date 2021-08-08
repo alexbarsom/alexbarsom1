@@ -17,3 +17,5 @@ menubar: work_menu
 
 ### III. Prelude and Fugue “Decompose” - duration c. 2'15"
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This piece attempts to deconstruct the concept of a prelude and fugue as it progresses. Two voices are prominently featured drifting in and out of phase in the prelude, foreshadowing the two-voice fugue to follow. In the fugue, the two voices are stratified from each other in range and rhythmic motion, while the subject which is pulled apart and fragmented until it becomes imperceptible. Although the integral fugal element, the subject, is slowly “decomposed,” the fugue still retains some of its defining characteristics; the two voices fly to and from each other, while quasi-cadences and veiled appearances of the subject remind the listener of its traditional form and structure.
+
+[Contact Me](mailto: alexbarsom123@gmail.com) with any inquiries or to purchase any music!

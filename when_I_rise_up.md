@@ -11,7 +11,7 @@ menubar: work_menu
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As a woman of color, Georgia Douglas Johnson faced a myriad of adversities, which she beautifully paints an image of herself transcending in this short poem. However, the lack of specificity of the poem allows it to invoke a powerful, universal feeling of freedom from the oppressive weight of one's personal hardships.
 
-[listen here!](/alexbarsom1/)
+[Contact Me](mailto: alexbarsom123@gmail.com) with any inquiries or to purchase any music!
 
 ## Poem:
 

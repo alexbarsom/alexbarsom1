@@ -4,8 +4,8 @@ tagline: Composer
 email: alexbarsom123@gmail.com
 description: >
   Official site of composer Alex Barsom
-baseurl: "/alexbarsom1"
-url: "https://alexbarsom.github.io"
+baseurl: ""
+url: "https://www.alexbarsom.com"
 permalink: pretty
 favicon: /composerwebsitefavicon.png
 #hide_share_buttons: true

@@ -17,7 +17,7 @@ show_sidebar: false
 
 Date TBD:
 
-[Oregan Bach Festival](alex)
+Oregon Bach Festival 
 
 # Past Performances
 

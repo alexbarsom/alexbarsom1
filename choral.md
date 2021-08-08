@@ -8,10 +8,10 @@ menubar: choralpage_menu
 # Choral
 <br>
 <br>
-<a href="http://127.0.0.1:4000/alexbarsom1/space_station/" style="font-size:24px;">Space Station (2018)</a>
+[Space Station (2018)]("http://www.alexbarsom.com/space_station/")
 
 for SSAATTBB Choir and Narrator ( *duration c. ?* )
 
-<a href="http://127.0.0.1:4000/alexbarsom1/when_I_rise_up/" style="font-size:24px;">When I Rise Up (2020)</a>
+[When I Rise Up (2020)]("http://www.alexbarsom.com/when_I_rise_up/")
 
 for SATB Choir and Piano ( *duration c. 5'30"* )

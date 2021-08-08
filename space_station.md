@@ -15,7 +15,7 @@ menubar: work_menu
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Setting a poem to be spoken by a narrator over a choir, although not the default choice for most when composing choral music, is not all too unheard of. However, in congruence with the frothy, veiled textures and harmonies of the choir, a musical landscape emerges which propels us into the unknown, with a thread of  familiarity sewn by the spoken word of the narrator and its close, directional relationship with the music. 
 
-[listen here!](/alexbarsom1/)
+[Contact Me](mailto: alexbarsom123@gmail.com) with any inquiries or to purchase any music!
 
 ## Poem:
 
