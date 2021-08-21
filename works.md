@@ -20,7 +20,7 @@ for Viola and Piano ( *duration c. 6'30"* )
 
 for String Quartet ( *duration c. 6'30"* )
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8q0CeNBiQUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="500" height="280" src="https://www.youtube.com/embed/8q0CeNBiQUA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [Miniatures (2020)]("http://www.alexbarsom.com/miniatures/")
 
@@ -32,7 +32,7 @@ for Solo Piano ( *duration c. 8'* )
 
 [Somewhere or Other (2020)]("http://www.alexbarsom.com/somewhere_or_other/") 
 
-for Baritone and Piano ( *duration c. 4'30* )
+for Baritone and Piano ( *duration c. 4'30"* )
 
 [Space Station (2018)]("http://www.alexbarsom.com/space_station/")
 

@@ -17,9 +17,13 @@ $hero-darken: $dark !default;
 @import "showcase";
 @import "../node_modules/bulma-block-list/src/block-list.scss";
 
+section {
+  background-image: url("/alexbarsom1/wavegrid.png");
+}
+
 a:link {
   color: #1D3851;
-  font-size: 24px;
+  font-size: 18px;
   text-decoration: none;
 }
 a:visited {
@@ -35,6 +39,3 @@ a:active {
   text-decoration: underline;
   }
 
-section {
-  background-image: url("/alexbarsom1/wavegrid.png");
-}

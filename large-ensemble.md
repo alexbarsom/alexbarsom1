@@ -10,4 +10,4 @@ menubar: large_ensemble_menu
 <br>
 [What you Bring to Me (2021)]("http://www.alexbarsom.com/what_you_bring_to_me/")
 
-for Full Orchestra ( *duration c. 6* )
+for Full Orchestra ( *duration c. 6'* )

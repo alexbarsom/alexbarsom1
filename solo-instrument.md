@@ -10,7 +10,7 @@ menubar: solo_menu
 <br>
 [Miniatures (2020)]("http://www.alexbarsom.com/miniatures/")
 
-for Solo Piano ( *duration c. ?* )
+for Solo Piano ( *duration c. 7'* )
 
 [Preludes and Fugues (2020)]("http://www.alexbarsom.com/preludes_and_fugues/")
 
