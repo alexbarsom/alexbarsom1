@@ -7,13 +7,13 @@
     - name: All Works
       link: /works/
     - name: Chamber
-      link: /chamber/
+      link: works/chamber/
     - name: Choral
-      link: /choral/
+      link: works/choral/
     - name: Large Ensemble
-      link: /large-ensemble/
+      link: works/large-ensemble/
     - name: Solo Instrument
-      link: /solo-instrument/
+      link: works/solo-instrument/
     
 - name: Listen
   link: /listen/

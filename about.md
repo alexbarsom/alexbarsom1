@@ -18,10 +18,10 @@ show_sidebar: false
 <body>
 <h1> Bio </h1>
 
-<p class="tab two">Alex Barsom (b. 21 September 2000) is a composer and pianist with fifteen years of experience studying music. His diverse musical studies have allowed him to develop a unique, flexible compositional voice that draws from a myriad of rich cultural and musical sources.</p> 
+<p class="tab two">Alex Barsom is a Coptic-American composer whose music synthesizes disparate influences to create a representation of his lived experience. As such, he finds the voice to be a potent device for narrative music which allows him to reconcile with his own intersectional identity.</p> 
 
-<p class="tab two">Alex has had the opportunity to work with renowned ensembles, such as the brilliant Yarn/Wire ensemble and inimitable Delgani String Quartet, as well as magnificent performers, such as the inimitable pianist Jihye Chang. Alex’s pieces have also won him recognition in both national and international competitions - he received third place in the Metropolitan Youth Orchestra’s emerging composer competition and an honorable mention in the Musica Prospettiva call for scores, along with other composers born on or after 2000, and his music was selected for a concert performance and recording by the Yarn/Wire ensemble.</p>
+<p class="tab two">Alex’s pieces have won recognition in national and international competitions, such as the Metropolitan Youth Orchestra’s Emerging Composer competition and Soli Chamber Ensemble’s 30x30x30 Project.  Additionally, his vocal music has been selected as a finalist for Chelsea Hollow’s call for scores, earned him a place in programs such as N.E.O. Voice Festival, and has garnered commissions from numerous emerging vocalists, including Michelle Rice, Carmen Edano, and Finn Sagal.  He has had the opportunity to collaborate with renowned artists such as JACK Quartet, Orchestra Senzaspine and the Carpe Diem Quartet at Chigiana Academy, Yarn/Wire Ensemble, pianist Jihye Chang, the Delgani String Quartet, Quatuor Diotima, and Aperture Duo.</p>
 
-<p class="tab two">Alex has continuously participated in composition workshops and festivals, such as the residencies hosted by UCLA, the Sunset ChamberFest and the Oregon Bach Festival Composer's Symposium. Alex currently studies composition at the UCLA School of Music, where he has studied with professors Ian Krouse, Kay Rhie, David Lefkowitz and Richard Danielpour.</p>
+<p class="tab two">Alex is pursuing a Master’s degree in composition with Christopher Cerrone at Mannes College of Music. He earned his Bachelor’s degree at UCLA, where he studied primarily with Richard Danielpour, along with Kay Rhie, David Lefkowitz and Ian Krouse.</p>
 </body>
 </html>
