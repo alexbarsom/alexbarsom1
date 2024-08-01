@@ -8,6 +8,6 @@ menubar: large_ensemble_menu
 # Large Ensemble
 <br>
 <br>
-[What you Bring to Me (2021)]("http://www.alexbarsom.com/what_you_bring_to_me/")
+[Solar Barque (2023)](solar_barque)
 
-for Full Orchestra ( *duration c. 6'* )
+for Orchestra ( *duration c. 6'* )
