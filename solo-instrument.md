@@ -8,14 +8,6 @@ menubar: solo_menu
 # Solo Instrument
 <br>
 <br>
-[Miniatures (2020)]("http://www.alexbarsom.com/miniatures/")
+[Wail On (2023)](wail_on)
 
-for Solo Piano ( *duration c. 7'* )
-
-[Preludes and Fugues (2020)]("http://www.alexbarsom.com/preludes_and_fugues/")
-
-for Solo Piano ( *duration c. 8'* )
-
-[Vignette Svizzere (2020)]("http://www.alexbarsom.com/vignette_svizzere/")
-
-for Solo Piano ( *duration c. 13'* )
+for Solo Cello ( *duration c. 5'30"* )
