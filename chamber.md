@@ -12,6 +12,10 @@ menubar: chamberpage_menu
 
 for String Quartet ( *duration c. 20'* )
 
+[Echolalia (2023)](echolalia)
+
+for Flute, Viola and Harp ( *duration c. 6.5'* )
+
 [The Seasons (2023)](the_seasons)
 
 for Voice and Large Chamber Ensemble ( *duration c. 13'*)
