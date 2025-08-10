@@ -7,7 +7,6 @@ menubar: work_menu
 
 # All Works
 <br>
-<br>
 [Feedback (2024)](feedback)
 
 for Voice, Piano and Electronics ( *duration c. 4 min.* )
